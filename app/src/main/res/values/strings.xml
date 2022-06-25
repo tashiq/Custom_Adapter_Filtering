@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Custom Adapter &amp; Filtering</string>
+    <string-array name="history_makers">
+        <item>Solaiman Shah</item>
+        <item>Ertugrul Gazi</item>
+        <item>Osman Bay</item>
+        <item>Orhan Bay</item>
+        <item>Alauddin</item>
+        <item>Bala Hatun</item>
+    </string-array>
+</resources>
